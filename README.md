@@ -18,3 +18,4 @@ Website portofolio ini menampilkan informasi singkat tentang diri saya, dilengka
 - Browser Google Chrome
 
 ## 📂 Struktur Project
+
