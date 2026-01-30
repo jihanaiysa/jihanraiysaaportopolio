@@ -4,7 +4,7 @@ Website ini merupakan *portofolio pribadi siswa* yang dibuat sebagai tugas sekol
 
 ## 👤 Identitas
 - *Nama*: Jihan Raiysa  
-- *Kelas & Jurusan*: 13 TKJ 3  
+- *Kelas & Jurusan*: 12 TKJ 3  
 
 ## 📌 Deskripsi
 Website portofolio ini menampilkan informasi singkat tentang diri saya, dilengkapi dengan halaman login, foto diri, serta tombol interaksi. Website ini dibuat untuk melatih keterampilan dasar pengembangan web dan penggunaan GitHub.
